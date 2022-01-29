@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIDuctCountByLevel.dll"</Assembly>
+		<AddInId>5C952924-CD65-415A-A5C3-E6B96CC8B43A</AddInId>
+		<FullClassName>RevitAPIDuctCountByLevel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество воздуховодов по этажам</Text>
+	</AddIn>
+</RevitAddIns>
